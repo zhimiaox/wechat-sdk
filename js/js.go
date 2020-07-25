@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"gitee.com/zhimiao/wechat-sdk/context"
-	"gitee.com/zhimiao/wechat-sdk/util"
+	"github.com/zhi-miao/wechat-sdk/context"
+	"github.com/zhi-miao/wechat-sdk/util"
 )
 
 const getTicketURL = "https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=%s&type=jsapi"

@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/zhimiao/wechat-sdk/context"
-	"gitee.com/zhimiao/wechat-sdk/util"
+	"github.com/zhi-miao/wechat-sdk/context"
+	"github.com/zhi-miao/wechat-sdk/util"
 )
 
 var payGateway = "https://api.mch.weixin.qq.com/pay/unifiedorder"

@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"gitee.com/zhimiao/wechat-sdk"
-	"gitee.com/zhimiao/wechat-sdk/message"
+	"github.com/zhi-miao/wechat-sdk"
+	"github.com/zhi-miao/wechat-sdk/message"
 	"github.com/gin-gonic/gin"
 )
 

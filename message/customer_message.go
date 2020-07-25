@@ -3,8 +3,8 @@ package message
 import (
 	"encoding/json"
 	"fmt"
-	"gitee.com/zhimiao/wechat-sdk/context"
-	"gitee.com/zhimiao/wechat-sdk/util"
+	"github.com/zhi-miao/wechat-sdk/context"
+	"github.com/zhi-miao/wechat-sdk/util"
 )
 
 const (

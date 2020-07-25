@@ -8,7 +8,7 @@
 
 ### 主场工程已开源
 
-[![纸喵软件/wechat](https://gitee.com/zhimiao/wechat/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/zhimiao/wechat)
+[https://github.com/zhi-miao/wechat](https://github.com/zhi-miao/wechat)
 
 ## 快速开始
 
@@ -79,7 +79,7 @@ Cache主要用来保存全局access_token以及js-sdk中的ticket：
 
 
 更多API使用请参考 godoc ：
-[https://godoc.org/gitee.com/zhimiao/wechat-sdk](https://godoc.org/gitee.com/zhimiao/wechat-sdk)
+[https://godoc.org/github.com/zhi-miao/wechat-sdk](https://godoc.org/github.com/zhi-miao/wechat-sdk)
 
 ## License
 

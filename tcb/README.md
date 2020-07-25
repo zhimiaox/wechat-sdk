@@ -29,4 +29,4 @@ if err != nil {
 }
 ```
 
-更多使用方法参考[GODOC](https://godoc.org/gitee.com/zhimiao/wechat-sdk/tcb)
+更多使用方法参考[GODOC](https://godoc.org/github.com/zhi-miao/wechat-sdk/tcb)

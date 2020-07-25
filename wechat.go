@@ -1,24 +1,24 @@
 package wechat
 
 import (
-	"gitee.com/zhimiao/wechat-sdk/device"
-	"gitee.com/zhimiao/wechat-sdk/message"
-	"gitee.com/zhimiao/wechat-sdk/open"
-	"gitee.com/zhimiao/wechat-sdk/tcb"
+	"github.com/zhi-miao/wechat-sdk/device"
+	"github.com/zhi-miao/wechat-sdk/message"
+	"github.com/zhi-miao/wechat-sdk/open"
+	"github.com/zhi-miao/wechat-sdk/tcb"
 	"net/http"
 	"sync"
 
-	"gitee.com/zhimiao/wechat-sdk/cache"
-	"gitee.com/zhimiao/wechat-sdk/context"
-	"gitee.com/zhimiao/wechat-sdk/js"
-	"gitee.com/zhimiao/wechat-sdk/material"
-	"gitee.com/zhimiao/wechat-sdk/menu"
-	"gitee.com/zhimiao/wechat-sdk/miniprogram"
-	"gitee.com/zhimiao/wechat-sdk/oauth"
-	"gitee.com/zhimiao/wechat-sdk/pay"
-	"gitee.com/zhimiao/wechat-sdk/qr"
-	"gitee.com/zhimiao/wechat-sdk/server"
-	"gitee.com/zhimiao/wechat-sdk/user"
+	"github.com/zhi-miao/wechat-sdk/cache"
+	"github.com/zhi-miao/wechat-sdk/context"
+	"github.com/zhi-miao/wechat-sdk/js"
+	"github.com/zhi-miao/wechat-sdk/material"
+	"github.com/zhi-miao/wechat-sdk/menu"
+	"github.com/zhi-miao/wechat-sdk/miniprogram"
+	"github.com/zhi-miao/wechat-sdk/oauth"
+	"github.com/zhi-miao/wechat-sdk/pay"
+	"github.com/zhi-miao/wechat-sdk/qr"
+	"github.com/zhi-miao/wechat-sdk/server"
+	"github.com/zhi-miao/wechat-sdk/user"
 )
 
 // Wechat struct

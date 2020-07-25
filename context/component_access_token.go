@@ -3,10 +3,10 @@ package context
 import (
 	"encoding/json"
 	"fmt"
-	"gitee.com/zhimiao/wechat-sdk/cache"
+	"github.com/zhi-miao/wechat-sdk/cache"
 	"time"
 
-	"gitee.com/zhimiao/wechat-sdk/util"
+	"github.com/zhi-miao/wechat-sdk/util"
 )
 
 const (

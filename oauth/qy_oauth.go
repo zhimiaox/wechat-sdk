@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/url"
 
-	"gitee.com/zhimiao/wechat-sdk/util"
+	"github.com/zhi-miao/wechat-sdk/util"
 )
 
 var (

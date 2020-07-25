@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"gitee.com/zhimiao/wechat-sdk/util"
+	"github.com/zhi-miao/wechat-sdk/util"
 )
 
 const (

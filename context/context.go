@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"sync"
 
-	"gitee.com/zhimiao/wechat-sdk/cache"
+	"github.com/zhi-miao/wechat-sdk/cache"
 )
 
 // Context struct

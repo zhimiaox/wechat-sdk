@@ -2,7 +2,7 @@ package pay
 
 import (
 	"fmt"
-	"gitee.com/zhimiao/wechat-sdk/util"
+	"github.com/zhi-miao/wechat-sdk/util"
 	"sort"
 )
 

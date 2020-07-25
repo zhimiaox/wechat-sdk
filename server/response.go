@@ -3,10 +3,10 @@ package server
 import (
 	"encoding/xml"
 	"fmt"
-	"gitee.com/zhimiao/wechat-sdk/message"
-	"gitee.com/zhimiao/wechat-sdk/open"
-	"gitee.com/zhimiao/wechat-sdk/pay"
-	"gitee.com/zhimiao/wechat-sdk/util"
+	"github.com/zhi-miao/wechat-sdk/message"
+	"github.com/zhi-miao/wechat-sdk/open"
+	"github.com/zhi-miao/wechat-sdk/pay"
+	"github.com/zhi-miao/wechat-sdk/util"
 	"reflect"
 	"strconv"
 )

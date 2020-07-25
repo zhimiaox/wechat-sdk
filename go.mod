@@ -1,4 +1,4 @@
-module gitee.com/zhimiao/wechat-sdk
+module github.com/zhi-miao/wechat-sdk
 
 go 1.13
 

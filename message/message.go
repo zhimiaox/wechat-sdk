@@ -2,7 +2,7 @@ package message
 
 import (
 	"encoding/xml"
-	"gitee.com/zhimiao/wechat-sdk/device"
+	"github.com/zhi-miao/wechat-sdk/device"
 )
 
 // MsgType 基本消息类型
